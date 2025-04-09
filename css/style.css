@@ -504,6 +504,13 @@ h3.home-skills{
     width: 100%;
     display: block;
 }
+.portfolio-title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    color: var(--text-black-900);
+}
 /*Contatos*/
 .contact-title{
     color: var(--skin-color);
