@@ -535,15 +535,16 @@ h3.home-skills{
 .portfolio-title {
     background-color: var(--bg-black-100);
     border: 3px solid var(--bg-black-100);
-    margin-top: 5px;
     border-radius: 10px;
-    width: 100%;
-    display: flex;
+    width: 100%;   
     justify-content: center;
     text-align: center;
     font-weight: 700;
     color: var(--text-black-900);
+    display: block;
+    margin-top: 8px; 
 }
+
 /*Contatos*/
 .contact-title{
     color: var(--skin-color);
