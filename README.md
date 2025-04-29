@@ -21,7 +21,6 @@ Este é o meu portfólio pessoal onde apresento minha trajetória como desenvolv
 
 ### 🎯 Objetivos futuros
 - Adicionar novos projetos com habilidades mais avançadas
-- Melhorar a performance e acessibilidade da aplicação
 - Implementar novas funcionalidades interativas
 
 <div align="center">
