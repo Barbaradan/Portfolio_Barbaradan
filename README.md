@@ -1,4 +1,4 @@
-# 🎨 Portfolio - Barbara Daniel
+# 🎨 Portfólio - Barbara Daniel
 
 Este é o meu portfólio pessoal, onde apresento minha trajetória como desenvolvedora, um pouco sobre mim, projetos pessoais, cursos realizados e formas de contato! 🚀✨
 
